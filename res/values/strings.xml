@@ -1,0 +1,23 @@
+<resources>
+
+    <string name="app_name">SoccerQuizGame</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="choices">Select Number of Choices</string>
+    <string name="correct">correct</string>
+    <string name="guess_player">Guess the Player</string>
+    <string name="guesses">guesses</string>
+    <string name="incorrect_answer">Wrong!</string>
+    <string name="of">of</string>
+    <string name="ok">OK</string>
+    <string name="question">Question</string>
+    <string name="quiz_title">Soccer Quiz</string>
+    <string name="reset_quiz">Reset Quiz</string>
+    <string-array name="guessesList">
+        <item >3</item>
+        <item >6</item>
+        <item >9</item>
+       
+    </string-array>
+
+</resources>
